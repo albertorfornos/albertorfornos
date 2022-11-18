@@ -2,6 +2,7 @@
 <h1 align="center">Hi 👋, I'm Alberto Fornos</h1>
 <h3 align="center">Master’s degree graduate in Web Design, UX/UI and Graphic Design</h3>
 
+<br><br>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/media/18181eb39eec9784db256e246954adba.gif">
 
 - 🔭 Project 1 [Padelplay](https://github.com/albertorf86/Padelplaymadrid)
