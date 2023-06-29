@@ -13,7 +13,7 @@
 
 - 🔭 Project 4 [Passenger calculator](https://github.com/albertorf86/passenger-calculator)
 
-- 🔭 Project 5 [Padelplay app Figma](https://www.figma.com/file/3zngiOW0QeIgJ0z5GxIPLz/Padel-play?type=design&node-id=2%3A3&mode=design&t=VWMxY3uICpLLGt8K-1)
+- 🔭 Project 5 [Padelplay App Figma](https://www.figma.com/file/3zngiOW0QeIgJ0z5GxIPLz/Padel-play?type=design&node-id=2%3A3&mode=design&t=VWMxY3uICpLLGt8K-1)
 
 - 🌱 I’m currently learning **React**
 
