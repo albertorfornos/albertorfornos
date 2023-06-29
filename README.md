@@ -7,13 +7,15 @@
 
 - 🔭 Project 1 [Padelplay](https://github.com/albertorf86/Padelplaymadrid)
 
-- 🔭 Project 2 [Icoder](https://github.com/albertorf86/icoder)
+- 🔭 Project 2 [Wizard Game](https://github.com/albertorf86/wizard-game/tree/main)
 
-- 🔭 Project 3 [Gym Bathspa](https://github.com/albertorf86/gym-bathspa)
+- 🔭 Project 3 [Icoder](https://github.com/albertorf86/icoder)
 
 - 🔭 Project 4 [Passenger calculator](https://github.com/albertorf86/passenger-calculator)
-
+  
 - 🔭 Project 5 [Padelplay App Figma](https://www.figma.com/file/3zngiOW0QeIgJ0z5GxIPLz/Padel-play?type=design&node-id=2%3A3&mode=design&t=VWMxY3uICpLLGt8K-1)
+
+- 🔭 Project 6 [Website for real client using Wordpress](https://www.gesindeandalucia.es)
 
 - 🌱 I’m currently learning **React**
 
