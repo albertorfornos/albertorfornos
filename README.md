@@ -5,13 +5,13 @@
 <br><br>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/media/18181eb39eec9784db256e246954adba.gif">
 
-- 🔭 Project 1 [Padelplay](https://github.com/albertorf86/Padelplaymadrid)
+- 🔭 Project 1 [Padelplay](https://github.com/albertorfornos/Padelplaymadrid)
 
-- 🔭 Project 2 [Wizard Game](https://github.com/albertorf86/wizard-game/tree/main)
+- 🔭 Project 2 [Wizard Game](https://github.com/albertorfornos/wizard-game/tree/main)
 
-- 🔭 Project 3 [Icoder](https://github.com/albertorf86/icoder)
+- 🔭 Project 3 [Icoder](https://github.com/albertorfornos/icoder)
 
-- 🔭 Project 4 [Passenger calculator](https://github.com/albertorf86/passenger-calculator)
+- 🔭 Project 4 [Passenger calculator](https://github.com/albertorfornos/passenger-calculator)
   
 - 🔭 Project 5 [Padelplay App Figma](https://www.figma.com/file/3zngiOW0QeIgJ0z5GxIPLz/Padel-play?type=design&node-id=2%3A3&mode=design&t=VWMxY3uICpLLGt8K-1)
 
